@@ -1,6 +1,6 @@
 {
-  "name": "mysqldump",
-  "version": "2.2.1",
+  "name": "@yamakadi/mysqldump",
+  "version": "2.2.2",
   "description": "Create a DUMP from MySQL",
   "main": "dist/cjs.js",
   "module": "dist/es.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/assignar/mysqldump"
+    "url": "https://github.com/yamakadi/mysqldump"
   },
   "keywords": [
     "backup",
@@ -32,12 +32,12 @@
     "backup",
     "database"
   ],
-  "author": "Brad Zacher",
+  "author": "Yamamoto Kadir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/assignar/mysqldump/issues"
+    "url": "https://github.com/yamakadi/mysqldump/issues"
   },
-  "homepage": "https://github.com/assignar/mysqldump",
+  "homepage": "https://github.com/yamakadi/mysqldump",
   "dependencies": {
     "@types/node": "^10.5.2",
     "deepmerge": "^2.1.1",
